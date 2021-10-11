@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{2}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tabellenverzeichnis}{2}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Drucksensoren}{3}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Halbleiterdehnungsmessstreifen}{3}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}Funktionsprinzip}{3}{subsubsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2}Beispiel piezoresistiver Drucksensor}{3}{subsubsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Piezoelektrische Drucksensor}{7}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Funktionsprinzip}{7}{subsubsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Beispiel piezoelektrischer Drucksensor}{7}{subsubsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Literatur}{9}{figure.caption.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Eigenständigkeitserklärung}{10}{figure.caption.10}%

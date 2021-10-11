@@ -1,0 +1,351 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Buttgenbach.2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ae50d58e958f41be14bb7c05d268a7b}{%
+           family={Büttgenbach},
+           familyi={B\bibinitperiod},
+           given={Stephanus},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Springer-Verlag GmbH}%
+      }
+      \list{location}{2}{%
+        {Berlin}%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \strng{fullhash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \strng{bibnamehash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \strng{authorbibnamehash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \strng{authornamehash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \strng{authorfullhash}{4ae50d58e958f41be14bb7c05d268a7b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3662497727}
+      \field{series}{Technik im Fokus}
+      \field{title}{Mikrosystemtechnik: Vom Transistor zum Biochip}
+      \field{year}{2016}
+      \verb{file}
+      \verb 978-3-662-49773-9:Attachments/978-3-662-49773-9.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-662-49773-9.pdf
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-662-49773-9.pdf
+      \endverb
+    \endentry
+    \entry{Heimann.}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=557dd88c33241157fca7807a2340b512}{%
+           family={Heimann},
+           familyi={H\bibinitperiod},
+           given={Bodo},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{557dd88c33241157fca7807a2340b512}
+      \strng{fullhash}{557dd88c33241157fca7807a2340b512}
+      \strng{bibnamehash}{557dd88c33241157fca7807a2340b512}
+      \strng{authorbibnamehash}{557dd88c33241157fca7807a2340b512}
+      \strng{authornamehash}{557dd88c33241157fca7807a2340b512}
+      \strng{authorfullhash}{557dd88c33241157fca7807a2340b512}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mechatronik}
+      \verb{file}
+      \verb Mechatronik:Attachments/Mechatronik.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hanser-elibrary.com/doi/pdf/10.3139/9783446445338.003
+      \endverb
+      \verb{url}
+      \verb https://www.hanser-elibrary.com/doi/pdf/10.3139/9783446445338.003
+      \endverb
+    \endentry
+    \entry{MaximIntegratedProducts.2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdd600542cfa4e4dfeaaa383656a4fcf}{%
+           family={{Maxim Integrated Products}},
+           familyi={M\bibinitperiod},
+           given={Inc},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{fullhash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{bibnamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authorbibnamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authornamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authorfullhash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MAX11164}
+      \field{year}{2015}
+      \verb{file}
+      \verb MAX11164:Attachments/MAX11164.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://datasheets.maximintegrated.com/en/ds/MAX11164.pdf
+      \endverb
+      \verb{url}
+      \verb https://datasheets.maximintegrated.com/en/ds/MAX11164.pdf
+      \endverb
+    \endentry
+    \entry{Parthier.2006}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0362e4e0eca9fc5dc40576c93e73cc25}{%
+           family={Parthier},
+           familyi={P\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Vieweg+Teubner}%
+      }
+      \strng{namehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{fullhash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{bibnamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authorbibnamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authornamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authorfullhash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3., überarbeitete und ergänzte Auflage}
+      \field{isbn}{9783834890832}
+      \field{series}{Studium Technik}
+      \field{title}{Messtechnik: Grundlagen und Anwendungen der elektrischen Messtechnik für alle technischen Fachrichtungen und Wirtschaftsingenieure}
+      \field{year}{2006}
+      \verb{doi}
+      \verb 10.1007/978-3-8348-9083-2
+      \endverb
+      \verb{file}
+      \verb 978-3-8348-9083-2:Attachments/978-3-8348-9083-2.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-8348-9083-2.pdf
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-8348-9083-2.pdf
+      \endverb
+    \endentry
+    \entry{Parthier.2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0362e4e0eca9fc5dc40576c93e73cc25}{%
+           family={Parthier},
+           familyi={P\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Springer Fachmedien Wiesbaden GmbH}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vieweg}%
+      }
+      \strng{namehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{fullhash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{bibnamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authorbibnamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authornamehash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \strng{authorfullhash}{0362e4e0eca9fc5dc40576c93e73cc25}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Ninth edition}
+      \field{isbn}{9783658271305}
+      \field{series}{Lehrbuch}
+      \field{title}{Messtechnik: Vom SI-Einheitensystem über Bewertung von Messergebnissen zu Anwendungen der elektrischen Messtechnik / Rainer Parthier}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1007/978-3-658-27131-2
+      \endverb
+      \verb{file}
+      \verb 978-3-658-27131-2 (2):Attachments/978-3-658-27131-2 (2).pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-658-27131-2.pdf
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/content/pdf/10.1007%2F978-3-658-27131-2.pdf
+      \endverb
+    \endentry
+    \entry{PIEZO.COM.2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=467c70b79cb39321f503e9e8e2fee758}{%
+           family={PIEZO.COM},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{467c70b79cb39321f503e9e8e2fee758}
+      \strng{fullhash}{467c70b79cb39321f503e9e8e2fee758}
+      \strng{bibnamehash}{467c70b79cb39321f503e9e8e2fee758}
+      \strng{authorbibnamehash}{467c70b79cb39321f503e9e8e2fee758}
+      \strng{authornamehash}{467c70b79cb39321f503e9e8e2fee758}
+      \strng{authorfullhash}{467c70b79cb39321f503e9e8e2fee758}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A single layer product recommended for energy harvesting and sensing applications. It also exhibits good performance as a resonant actuator. It is not recommended for applications requiring high force output. This product does not have mounting and alignment holes like the other products.}
+      \field{title}{Piezoelectric Bending Transducer (S118-J1SS-1808YB)}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://piezo.com/collections/piezoelectric-sensors/products/piezoelectric-bending-transducer-s118-j1ss-1808yb
+      \endverb
+      \verb{url}
+      \verb https://piezo.com/collections/piezoelectric-sensors/products/piezoelectric-bending-transducer-s118-j1ss-1808yb
+      \endverb
+    \endentry
+    \entry{Siemens.2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74993f42c49b81f3a77103bcbb247c2b}{%
+           family={Siemens},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{74993f42c49b81f3a77103bcbb247c2b}
+      \strng{fullhash}{74993f42c49b81f3a77103bcbb247c2b}
+      \strng{bibnamehash}{74993f42c49b81f3a77103bcbb247c2b}
+      \strng{authorbibnamehash}{74993f42c49b81f3a77103bcbb247c2b}
+      \strng{authornamehash}{74993f42c49b81f3a77103bcbb247c2b}
+      \strng{authorfullhash}{74993f42c49b81f3a77103bcbb247c2b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{KPY43A, KPY43A Datasheet, KPY43A PDF, Silicon Piezoresistive Absolute Pressure Sensor}
+      \field{title}{KPY43A, KPY43A Datasheet, KPY43A PDF - Siemens}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://datasheet-pdf.com/PDF/KPY43A-Datasheet-Siemens-502030
+      \endverb
+      \verb{url}
+      \verb https://datasheet-pdf.com/PDF/KPY43A-Datasheet-Siemens-502030
+      \endverb
+    \endentry
+    \entry{Wu.1992}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=15fdfdabc13b4fa21de4319fc6f402bf}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yuqian},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fa98faca43d872814840eb127c2d3e66}{%
+           family={Levinshtein},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b69aed4b931a7471b8f82bfefa861da9}{%
+           family={Simin},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WORLD SCIENTIFIC}%
+      }
+      \strng{namehash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{fullhash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{bibnamehash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{authorbibnamehash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{authornamehash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{authorfullhash}{15fdfdabc13b4fa21de4319fc6f402bf}
+      \strng{editorbibnamehash}{52c55d774763d4ae9d4ea202f8d63f61}
+      \strng{editornamehash}{52c55d774763d4ae9d4ea202f8d63f61}
+      \strng{editorfullhash}{52c55d774763d4ae9d4ea202f8d63f61}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Getting to Know Semiconductors}
+      \field{isbn}{978-981-02-0760-1}
+      \field{title}{SEMICONDUCTOR STRAIN GAUGES}
+      \field{year}{1992}
+      \field{pages}{113\bibrangedash 130}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1142/9789812815507{\textunderscore }0007
+      \endverb
+      \verb{file}
+      \verb 210705{\_}Semiconductor{\_}Strain{\_}Gauges:Attachments/210705{\_}Semiconductor{\_}Strain{\_}Gauges.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bcmsensor.com/wp-content/uploads/2015/09/210705_Semiconductor_Strain_Gauges.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.bcmsensor.com/wp-content/uploads/2015/09/210705_Semiconductor_Strain_Gauges.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

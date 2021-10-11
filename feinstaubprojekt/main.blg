@@ -1,0 +1,20 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'main.blg'
+[176] biber-MSWIN64:340> INFO - === 
+[244] Biber.pm:415> INFO - Reading 'main.bcf'
+[459] Biber.pm:952> INFO - Found 12 citekeys in bib section 0
+[479] Biber.pm:4340> INFO - Processing section 0
+[502] Biber.pm:4531> INFO - Looking for bibtex format file 'citation.bib' for section 0
+[610] bibtex.pm:1689> INFO - LaTeX decoding ...
+[685] bibtex.pm:1494> INFO - Found BibTeX data source 'citation.bib'
+[764] Utils.pm:395> WARN - legacy year field '8/31/2021' in entry 'Conrad.8312021' is not an integer - this will probably not sort properly.
+[773] Utils.pm:395> WARN - legacy year field '8/29/2021' in entry 'LEDAma' is not an integer - this will probably not sort properly.
+[779] Utils.pm:395> WARN - legacy year field '8/28/2021' in entry 'Alldatasheet.8282021' is not an integer - this will probably not sort properly.
+[788] Utils.pm:395> WARN - legacy year field '6/20/2021' in entry 'TheWorldAirQualityIndex.6202021' is not an integer - this will probably not sort properly.
+[840] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[840] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[840] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-DE'
+[840] Biber.pm:4174> INFO - No sort tailoring available for locale 'de-DE'
+[864] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[885] bbl.pm:757> INFO - Output to main.bbl
+[886] Biber.pm:128> INFO - WARNINGS: 4

@@ -1,0 +1,30 @@
+\ifglsentryexists{RTD}{}%
+{%
+\gls@defglossaryentry{RTD}%
+{%
+name={RTD},%
+sort={RTD},%
+type={main},%
+first={RTD},%
+firstplural={RTDs},%
+text={RTD},%
+plural={RTDs},%
+description={resistance temperature detector},%
+descriptionplural={resistance temperature detector},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

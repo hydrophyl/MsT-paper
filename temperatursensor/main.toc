@@ -1,0 +1,32 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{2}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tabellenverzeichnis}{2}{table.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Temperatursensoren}{3}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}PT100}{3}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}Einleitung und Funktionsprinzip}{3}{subsubsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2}Beispiel PT100 Sensor}{3}{subsubsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}NTC Thermistor}{5}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Einleitung und Funktionsprinzip}{5}{subsubsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Beispiel NTC Thermistor}{5}{subsubsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Thermoelement Typ K}{8}{subsection.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1}Einleitung und Funktionsprinzip}{8}{subsubsection.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2}Beispiel Thermoelement Typ K}{9}{subsubsection.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Prüfung der Eignung von Temperatursensoren fürs Feinstaubmessprojekt}{10}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Literatur}{11}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Eigenständigkeitserklärung}{12}{section.2}%

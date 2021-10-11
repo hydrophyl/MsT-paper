@@ -1,0 +1,490 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{AnalogDevicesInc..2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f81b34da5839253845c696bf71a74915}{%
+           family={{Analog Devices, Inc.}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f81b34da5839253845c696bf71a74915}
+      \strng{fullhash}{f81b34da5839253845c696bf71a74915}
+      \strng{bibnamehash}{f81b34da5839253845c696bf71a74915}
+      \strng{authorbibnamehash}{f81b34da5839253845c696bf71a74915}
+      \strng{authornamehash}{f81b34da5839253845c696bf71a74915}
+      \strng{authorfullhash}{f81b34da5839253845c696bf71a74915}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precision Thermocouple Amplifiers with Cold Junction Compensation}
+      \field{title}{AD8494/AD8495/AD8496/AD8497 (Rev. C)}
+      \field{year}{2018}
+      \verb{file}
+      \verb AD8497 (Rev:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\AD8497 (Rev.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/AD8494_8495_8496_8497.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/AD8494_8495_8496_8497.pdf
+      \endverb
+    \endentry
+    \entry{Frank.}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1334a19c0f04374738457298a4c94ef9}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1334a19c0f04374738457298a4c94ef9}
+      \strng{fullhash}{1334a19c0f04374738457298a4c94ef9}
+      \strng{bibnamehash}{1334a19c0f04374738457298a4c94ef9}
+      \strng{authorbibnamehash}{1334a19c0f04374738457298a4c94ef9}
+      \strng{authornamehash}{1334a19c0f04374738457298a4c94ef9}
+      \strng{authorfullhash}{1334a19c0f04374738457298a4c94ef9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vorlesung Messtechnik S21}
+      \field{year}{2021}
+    \endentry
+    \entry{L.v.Kortvelyessy.1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9c0a5317988d57077926a9e5fa463e2}{%
+           family={{L. v. Körtvélyessy}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Essen}%
+      }
+      \list{publisher}{1}{%
+        {Vulkan-Verlag-Essen}%
+      }
+      \strng{namehash}{b9c0a5317988d57077926a9e5fa463e2}
+      \strng{fullhash}{b9c0a5317988d57077926a9e5fa463e2}
+      \strng{bibnamehash}{b9c0a5317988d57077926a9e5fa463e2}
+      \strng{authorbibnamehash}{b9c0a5317988d57077926a9e5fa463e2}
+      \strng{authornamehash}{b9c0a5317988d57077926a9e5fa463e2}
+      \strng{authorfullhash}{b9c0a5317988d57077926a9e5fa463e2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3-8027-2140-3}
+      \field{title}{Thermoelement Praxis}
+      \field{year}{1987}
+    \endentry
+    \entry{MaximIntegratedProducts.2015}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdd600542cfa4e4dfeaaa383656a4fcf}{%
+           family={{Maxim Integrated Products}},
+           familyi={M\bibinitperiod},
+           given={Inc},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{fullhash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{bibnamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authorbibnamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authornamehash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \strng{authorfullhash}{bdd600542cfa4e4dfeaaa383656a4fcf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MAX11164}
+      \field{year}{2015}
+      \verb{file}
+      \verb MAX11164:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\MAX11164.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://datasheets.maximintegrated.com/en/ds/MAX11164.pdf
+      \endverb
+      \verb{url}
+      \verb https://datasheets.maximintegrated.com/en/ds/MAX11164.pdf
+      \endverb
+    \endentry
+    \entry{MouserElectronics.2021c}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46913243869a039c91d538ffd16b7c7f}{%
+           family={{Mouser Electronics}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{46913243869a039c91d538ffd16b7c7f}
+      \strng{fullhash}{46913243869a039c91d538ffd16b7c7f}
+      \strng{bibnamehash}{46913243869a039c91d538ffd16b7c7f}
+      \strng{authorbibnamehash}{46913243869a039c91d538ffd16b7c7f}
+      \strng{authornamehash}{46913243869a039c91d538ffd16b7c7f}
+      \strng{authorfullhash}{46913243869a039c91d538ffd16b7c7f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{32207690 Heraeus Nexensos Industrial Temperature Sensors M213 Pt 100 Class B clad Ni-wire datasheet, inventory {\&} pricing.}
+      \field{title}{32207690 Heraeus Nexensos | Mouser}
+      \field{year}{2021}
+      \verb{file}
+      \verb https://www.mouser.de/ProductDetail/Heraeus-Nexensos/32207690?qs=e8QHdpnGig8VIRIkkM%2FRLg==
+      \endverb
+    \endentry
+    \entry{NIST.2008}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a44b6b00e5eebd7494e1fd00658685e2}{%
+           family={NIST},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \strng{fullhash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \strng{bibnamehash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \strng{authorbibnamehash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \strng{authornamehash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \strng{authorfullhash}{a44b6b00e5eebd7494e1fd00658685e2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ITS-90 Thermocouple Database, Download Files}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://srdata.nist.gov/its90/download/download.html
+      \endverb
+      \verb{url}
+      \verb https://srdata.nist.gov/its90/download/download.html
+      \endverb
+    \endentry
+    \entry{Pustelnik.2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=218f728bc3598e9ef5b8a0e26417f0a6}{%
+           family={Pustelnik},
+           familyi={P\bibinitperiod},
+           given={Katja},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \strng{fullhash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \strng{bibnamehash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \strng{authorbibnamehash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \strng{authornamehash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \strng{authorfullhash}{218f728bc3598e9ef5b8a0e26417f0a6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heraeus{\_}M213}
+      \field{year}{2019}
+      \verb{file}
+      \verb Heraeus_M213:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\Heraeus_M213.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://atcsemitec.co.uk/wp-content/uploads/2019/10/Heraeus-M213-Data-Sheet.pdf
+      \endverb
+      \verb{url}
+      \verb https://atcsemitec.co.uk/wp-content/uploads/2019/10/Heraeus-M213-Data-Sheet.pdf
+      \endverb
+    \endentry
+    \entry{TEConnectivity.2021c}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e77212721fbba86b6d5ceee154fed146}{%
+           family={{TE Connectivity}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{fullhash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{bibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorbibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authornamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorfullhash}{e77212721fbba86b6d5ceee154fed146}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Rufen Sie 701108-M Diskrete NTC Thermistoren Spezifikationen, Preise, Inventarverfügbarkeit und mehr von TE Connectivity ab. Rufen Sie ein Muster ab oder fordern Sie ein Angebot an.}
+      \field{title}{701108-M : MEAS Diskrete NTC Thermistoren | TE Connectivity}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.te.com/deu-de/product-11032576-00.html
+      \endverb
+      \verb{url}
+      \verb https://www.te.com/deu-de/product-11032576-00.html
+      \endverb
+    \endentry
+    \entry{TEConnectivity.2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e77212721fbba86b6d5ceee154fed146}{%
+           family={{TE Connectivity}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{fullhash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{bibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorbibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authornamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorfullhash}{e77212721fbba86b6d5ceee154fed146}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Model 44008: Precision Epoxy NTC Thermistor}
+      \field{year}{2016}
+      \verb{file}
+      \verb Model 729:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\Model 729.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FTESS-ANDO-DS0013%7FA%7Fpdf%7FEnglish%7FENG_DS_TESS-ANDO-DS0013_A.pdf%7F11032576-00
+      \endverb
+      \verb{url}
+      \verb https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FTESS-ANDO-DS0013%7FA%7Fpdf%7FEnglish%7FENG_DS_TESS-ANDO-DS0013_A.pdf%7F11032576-00
+      \endverb
+    \endentry
+    \entry{TEConnectivity.2021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e77212721fbba86b6d5ceee154fed146}{%
+           family={{TE Connectivity}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{fullhash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{bibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorbibnamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authornamehash}{e77212721fbba86b6d5ceee154fed146}
+      \strng{authorfullhash}{e77212721fbba86b6d5ceee154fed146}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die Welt baut auf Verbindungen. Erfahren Sie, wie wir Innovationen branchen- und spartenübergreifend nutzen, um an bislang undenkbaren Orten Verbindungen herzustellen.}
+      \field{title}{Webinar: NTC-Thermistoren | TE Connectivity}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.te.com/deu-de/videos/transportation/ntc-thermistor-webinar.html
+      \endverb
+      \verb{url}
+      \verb https://www.te.com/deu-de/videos/transportation/ntc-thermistor-webinar.html
+      \endverb
+    \endentry
+    \entry{TexasInstruments.2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
+           family={{Texas Instruments}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c35287844a92fcf77bd6020951fdceb9}{%
+           family={{Incorporated [SBAS925}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ca16c254a6403c8e60cd0ea220ccbdd7}{%
+           family={{A ]}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3e8f90dc9617226afe01229c26f17a8}
+      \strng{fullhash}{c1bc629da3fa62a3625c375fb741ffdb}
+      \strng{bibnamehash}{c1bc629da3fa62a3625c375fb741ffdb}
+      \strng{authorbibnamehash}{c1bc629da3fa62a3625c375fb741ffdb}
+      \strng{authornamehash}{f3e8f90dc9617226afe01229c26f17a8}
+      \strng{authorfullhash}{c1bc629da3fa62a3625c375fb741ffdb}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data Sheet}
+      \field{title}{ADS1119 4-Channel, 1-kSPS, 16-Bit, Delta-Sigma ADC With I2C Interface datasheet (Rev. A)}
+      \field{year}{2018}
+      \verb{file}
+      \verb ADS1119 4-Channel, 1-kSPS, 16-Bit, Delta-Sigma ADC With I2C Interface datasheet (Rev:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\ADS1119 4-Channel, 1-kSPS, 16-Bit, Delta-Sigma ADC With I2C Interface datasheet (Rev.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/ds/symlink/ads1119.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/ds/symlink/ads1119.pdf
+      \endverb
+    \endentry
+    \entry{TexasInstruments.2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=67e54b1ee931f3f4bddfefa5fbde5fd8}{%
+           family={{Texas Instruments}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b7bfcfb4be11a3b6f1827ae7f7124788}{%
+           family={{Incorporated [SBOS464}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ca16c254a6403c8e60cd0ea220ccbdd7}{%
+           family={{A ]}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3e8f90dc9617226afe01229c26f17a8}
+      \strng{fullhash}{1a621feae2d1a2a18fad5ada1a6ca695}
+      \strng{bibnamehash}{1a621feae2d1a2a18fad5ada1a6ca695}
+      \strng{authorbibnamehash}{1a621feae2d1a2a18fad5ada1a6ca695}
+      \strng{authornamehash}{f3e8f90dc9617226afe01229c26f17a8}
+      \strng{authorfullhash}{1a621feae2d1a2a18fad5ada1a6ca695}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Data Sheet}
+      \field{title}{INA333-Q1 Automotive, Zer{ø}-Drift, micro-Power, Instrumentation Amplifier datasheet (Rev. A)}
+      \field{year}{2020}
+      \verb{file}
+      \verb INA333-Q1 Automotive, Zerø-Drift, micro-Power, Instrumentation Amplifier datasheet (Rev:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\INA333-Q1 Automotive, Zerø-Drift, micro-Power, Instrumentation Amplifier datasheet (Rev.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/ds/symlink/ina333-q1.pdf?ts=1623486062182&ref_url=https%253A%252F%252Fwww.ti.com%252Fdocument-viewer%252FINA333-Q1%252Fdatasheet%252Fsetting-the-gain-sbos4451476
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/ds/symlink/ina333-q1.pdf?ts=1623486062182&ref_url=https%253A%252F%252Fwww.ti.com%252Fdocument-viewer%252FINA333-Q1%252Fdatasheet%252Fsetting-the-gain-sbos4451476
+      \endverb
+    \endentry
+    \entry{Therma.2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd777d8071facffc9b192ee809dcf91b}{%
+           family={Therma},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd777d8071facffc9b192ee809dcf91b}
+      \strng{fullhash}{fd777d8071facffc9b192ee809dcf91b}
+      \strng{bibnamehash}{fd777d8071facffc9b192ee809dcf91b}
+      \strng{authorbibnamehash}{fd777d8071facffc9b192ee809dcf91b}
+      \strng{authornamehash}{fd777d8071facffc9b192ee809dcf91b}
+      \strng{authorfullhash}{fd777d8071facffc9b192ee809dcf91b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PVC -- P/PTW-24F-K-IEC | 10 m günstig online kaufen im Shop für Andere, Andere, Ausgleichsleitungen, Leitungen, Thermoleitungen, Typ {"}K{"}, Typ {"}K{"} ✅ Persönliche Beratung ✅ Schnelle Lieferung}
+      \field{title}{PVC -- P/PTW-24F-K-IEC | 10 m | Therma Online Shop}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.thermagmbh.de/shop/produkt/leitungen/ausgleichsleitungen/al-typ-k/al-k-andere/pvc-p-ptw-24f-k-iec-10-m/
+      \endverb
+      \verb{url}
+      \verb https://www.thermagmbh.de/shop/produkt/leitungen/ausgleichsleitungen/al-typ-k/al-k-andere/pvc-p-ptw-24f-k-iec-10-m/
+      \endverb
+    \endentry
+    \entry{W.GopelJ.HesseJ.N.Zemel.1989}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=44d4018c1bac909617a1bb003e6c5833}{%
+           family={{W. Göpel, J. Hesse, J. N. Zemel}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{44d4018c1bac909617a1bb003e6c5833}
+      \strng{fullhash}{44d4018c1bac909617a1bb003e6c5833}
+      \strng{bibnamehash}{44d4018c1bac909617a1bb003e6c5833}
+      \strng{editorbibnamehash}{44d4018c1bac909617a1bb003e6c5833}
+      \strng{editornamehash}{44d4018c1bac909617a1bb003e6c5833}
+      \strng{editorfullhash}{44d4018c1bac909617a1bb003e6c5833}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Sensors, A Comprehensive Survey}
+      \field{year}{1989}
+    \endentry
+    \entry{Zacharias.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=490cb3256c5449d1ddfec0931240a1da}{%
+           family={Zacharias},
+           familyi={Z\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{490cb3256c5449d1ddfec0931240a1da}
+      \strng{fullhash}{490cb3256c5449d1ddfec0931240a1da}
+      \strng{bibnamehash}{490cb3256c5449d1ddfec0931240a1da}
+      \strng{authorbibnamehash}{490cb3256c5449d1ddfec0931240a1da}
+      \strng{authornamehash}{490cb3256c5449d1ddfec0931240a1da}
+      \strng{authorfullhash}{490cb3256c5449d1ddfec0931240a1da}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermocouple Type K ITS-90 Table}
+      \field{year}{2021}
+      \verb{file}
+      \verb TypeKTableC:C\:\\Users\\Admin\\Documents\\Citavi 6\\Projects\\Feinstaub\\Citavi Attachments\\TypeKTableC.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://iseinc.com/TechNotes/TypeKTableC.pdf
+      \endverb
+      \verb{url}
+      \verb https://iseinc.com/TechNotes/TypeKTableC.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

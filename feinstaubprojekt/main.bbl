@@ -1,0 +1,453 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Alldatasheet.8282021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d79849a03f24eac42ab494242d8550ff}{%
+           family={Alldatasheet},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d79849a03f24eac42ab494242d8550ff}
+      \strng{fullhash}{d79849a03f24eac42ab494242d8550ff}
+      \strng{bibnamehash}{d79849a03f24eac42ab494242d8550ff}
+      \strng{authorbibnamehash}{d79849a03f24eac42ab494242d8550ff}
+      \strng{authornamehash}{d79849a03f24eac42ab494242d8550ff}
+      \strng{authorfullhash}{d79849a03f24eac42ab494242d8550ff}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{GL55 SeriesCdS Photoresistor Manual Datasheet}
+      \field{title}{GL5516 Datasheet ETC2 | Photoresistor}
+      \field{year}{8/28/2021}
+      \verb{urlraw}
+      \verb https://html.alldatasheet.com/html-pdf/1131892/ETC2/GL5516/461/4/GL5516.html
+      \endverb
+      \verb{url}
+      \verb https://html.alldatasheet.com/html-pdf/1131892/ETC2/GL5516/461/4/GL5516.html
+      \endverb
+    \endentry
+    \entry{DHT22Kaufen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AZDelivery DHT22 AM2302 Temperatursensor und Luftfeuchtigkeitssensor kompatibel mit Arduino und Raspberry Pi inklusive E-Book! : Amazon.de: Computer {\&} Zubehör}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.amazon.de/AZDelivery-AM2302-Temperatursensor-Luftfeuchtigkeitssensor-Arduino/dp/B06XF4TNT9/ref=sxin_13_ac_d_rm?ac_md=0-0-ZGh0MjI%3D-ac_d_rm_rm_rm&cv_ct_cx=dht22&dchild=1&keywords=dht22&pd_rd_i=B06XF4TNT9&pd_rd_r=b9b3280e-6962-4bf8-b408-e6a18e6ad2ee&pd_rd_w=azvqS&pd_rd_wg=v2qwS&pf_rd_p=d7022e5d-d98a-48af-b540-ab9d3c0ad7eb&pf_rd_r=H4GJ4GMM5798BECH9SVV&psc=1&qid=1629999132&sr=1-1-fe323411-17bb-433b-b2f8-c44f2e1370d4
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.de/AZDelivery-AM2302-Temperatursensor-Luftfeuchtigkeitssensor-Arduino/dp/B06XF4TNT9/ref=sxin_13_ac_d_rm?ac_md=0-0-ZGh0MjI%3D-ac_d_rm_rm_rm&cv_ct_cx=dht22&dchild=1&keywords=dht22&pd_rd_i=B06XF4TNT9&pd_rd_r=b9b3280e-6962-4bf8-b408-e6a18e6ad2ee&pd_rd_w=azvqS&pd_rd_wg=v2qwS&pf_rd_p=d7022e5d-d98a-48af-b540-ab9d3c0ad7eb&pf_rd_r=H4GJ4GMM5798BECH9SVV&psc=1&qid=1629999132&sr=1-1-fe323411-17bb-433b-b2f8-c44f2e1370d4
+      \endverb
+    \endentry
+    \entry{LEDAma}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lumetheus LED 5mm Farbe grün 50000 mcd 25 Stück Leuchtdiode extra hell 3V grüne Diode 2 Pin LEDs : Amazon.de: Gewerbe, Industrie {\&} Wissenschaft}
+      \field{year}{8/29/2021}
+      \verb{urlraw}
+      \verb https://www.amazon.de/Lumetheus-Farbe-50000-St%C3%BCck-Leuchtdiode/dp/B07RRBKVSR/ref=sr_1_12?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gr%C3%BCn+led&qid=1630176103&sr=8-12
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.de/Lumetheus-Farbe-50000-St%C3%BCck-Leuchtdiode/dp/B07RRBKVSR/ref=sr_1_12?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=gr%C3%BCn+led&qid=1630176103&sr=8-12
+      \endverb
+    \endentry
+    \entry{Austin.2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c81659cb2cecc3a5ef9a7fbef5a1d30e}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08b3785f43b827b4fc3b1d3eefb4330a}{%
+           family={Novosselov},
+           familyi={N\bibinitperiod},
+           given={Igor},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0834433d08ac580117ef521973b45d76}{%
+           family={Seto},
+           familyi={S\bibinitperiod},
+           given={Edmund},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f55a01885e2801f56eb80e57376dcf2}{%
+           family={Yost},
+           familyi={Y\bibinitperiod},
+           given={Michael\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc16afd861d5a2672fcca786d8e205f1}
+      \strng{fullhash}{03f5a0407d21cfb94180af7986b209ea}
+      \strng{bibnamehash}{03f5a0407d21cfb94180af7986b209ea}
+      \strng{authorbibnamehash}{03f5a0407d21cfb94180af7986b209ea}
+      \strng{authornamehash}{bc16afd861d5a2672fcca786d8e205f1}
+      \strng{authorfullhash}{03f5a0407d21cfb94180af7986b209ea}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLOS ONE}
+      \field{number}{10}
+      \field{title}{Correction: Laboratory Evaluation of the Shinyei PPD42NS Low-Cost Particulate Matter Sensor}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{e0141928}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0141928
+      \endverb
+      \verb{file}
+      \verb Austin, Novosselov et al. 2015 - Correction:Attachments/Austin, Novosselov et al. 2015 - Correction.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{AZDelivery.2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da596d37220ba80d9a763825323eb821}{%
+           family={{AZ Delivery}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{da596d37220ba80d9a763825323eb821}
+      \strng{fullhash}{da596d37220ba80d9a763825323eb821}
+      \strng{bibnamehash}{da596d37220ba80d9a763825323eb821}
+      \strng{authorbibnamehash}{da596d37220ba80d9a763825323eb821}
+      \strng{authornamehash}{da596d37220ba80d9a763825323eb821}
+      \strng{authorfullhash}{da596d37220ba80d9a763825323eb821}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DHT22/AM2302 Temperature and Humidity Sensor Datasheet}
+      \field{year}{2021}
+      \verb{file}
+      \verb D1Z25gUvJSS:Attachments/D1Z25gUvJSS.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://m.media-amazon.com/images/I/D1Z25gUvJSS.pdf
+      \endverb
+      \verb{url}
+      \verb https://m.media-amazon.com/images/I/D1Z25gUvJSS.pdf
+      \endverb
+    \endentry
+    \entry{BerndLaquai.2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=23bec26b2ff6ff5cf2fb7bec6e94d85e}{%
+           family={{Bernd Laquai}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \strng{fullhash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \strng{bibnamehash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \strng{authorbibnamehash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \strng{authornamehash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \strng{authorfullhash}{23bec26b2ff6ff5cf2fb7bec6e94d85e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PDF | On Oct 9, 2017, Bernd Laquai published Kompensation des Feuchte-Effekts bei Low-Cost Feinstaubsensoren-Sensoren nach dem Streulichtverfahren | Find, read and cite all the research you need on ResearchGate}
+      \field{title}{Kompensation des Feuchte-Effekts bei Low-Cost Feinstaubsensoren-Sensoren nach dem Streulichtverfahren}
+      \field{year}{2017}
+      \verb{file}
+      \verb Bernd Laquai 2017 - Kompensation des Feuchte-Effekts bei Low-Cost:Attachments/Bernd Laquai 2017 - Kompensation des Feuchte-Effekts bei Low-Cost.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/320289961_Kompensation_des_Feuchte-Effekts_bei_Low-Cost_Feinstaubsensoren-Sensoren_nach_dem_Streulichtverfahren
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/320289961_Kompensation_des_Feuchte-Effekts_bei_Low-Cost_Feinstaubsensoren-Sensoren_nach_dem_Streulichtverfahren
+      \endverb
+    \endentry
+    \entry{Conrad.8312021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8442dbf8110557212e11922c19c352bc}{%
+           family={Conrad},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8442dbf8110557212e11922c19c352bc}
+      \strng{fullhash}{8442dbf8110557212e11922c19c352bc}
+      \strng{bibnamehash}{8442dbf8110557212e11922c19c352bc}
+      \strng{authorbibnamehash}{8442dbf8110557212e11922c19c352bc}
+      \strng{authornamehash}{8442dbf8110557212e11922c19c352bc}
+      \strng{authorfullhash}{8442dbf8110557212e11922c19c352bc}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Top OSRAM Auswahl ✓ Schnelle {\&} versandkostenfreie Lieferung ab 59,50 {\text\euro} möglich ➥ Jetzt günstig online kaufen: OSRAM Fotodiode TO-39 1100 nm 55 ° BPX 61}
+      \field{title}{OSRAM Fotodiode TO-39 1100 nm 55 ° BPX 61 kaufen}
+      \field{year}{8/31/2021}
+      \verb{urlraw}
+      \verb https://www.conrad.de/de/p/osram-fotodiode-to-39-1100-nm-55-bpx-61-153122.html
+      \endverb
+      \verb{url}
+      \verb https://www.conrad.de/de/p/osram-fotodiode-to-39-1100-nm-55-bpx-61-153122.html
+      \endverb
+    \endentry
+    \entry{Gao.2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=96f10c312884f56832ad8bd3abe2a55f}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Meiling},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a938683f07e00f945488bc32a15c402}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Junji},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0834433d08ac580117ef521973b45d76}{%
+           family={Seto},
+           familyi={S\bibinitperiod},
+           given={Edmund},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cbaf3ef8b6230abe7720fbd924ca3f55}
+      \strng{fullhash}{0fe6cec1bec2e1b9dcce9925c2cdcdbd}
+      \strng{bibnamehash}{0fe6cec1bec2e1b9dcce9925c2cdcdbd}
+      \strng{authorbibnamehash}{0fe6cec1bec2e1b9dcce9925c2cdcdbd}
+      \strng{authornamehash}{cbaf3ef8b6230abe7720fbd924ca3f55}
+      \strng{authorfullhash}{0fe6cec1bec2e1b9dcce9925c2cdcdbd}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fine particulate matter (PM2.5) is a growing public health concern especially in industrializing countries but existing monitoring networks are unable to properly characterize human exposures due to low resolution spatiotemporal data. Low-cost portable monitors can supplement existing networks in both developed and industrializing regions to increase density of sites and data. This study tests the performance of a low-cost sensor in high concentration urban environments. Seven Portable University of Washington Particle (PUWP) monitors were calibrated with optical and gravimetric PM2.5 reference monitors in Xi'an, China in December 2013. Pairwise correlations between the raw PUWP and the reference monitors were high (R(2) = 0.86-0.89). PUWP monitors were also simultaneously deployed at eight sites across Xi'an alongside gravimetric PM2.5 monitors (R(2) = 0.53). The PUWP monitors were able to identify the High-technology Zone site as a potential PM2.5 hotspot with sustained high concentrations compared to the city average throughout the day.}
+      \field{journaltitle}{Environmental pollution (Barking, Essex : 1987)}
+      \field{title}{A distributed network of low-cost continuous reading sensors to measure spatiotemporal variations of PM2.5 in Xi'an, China}
+      \field{volume}{199}
+      \field{year}{2015}
+      \field{pages}{56\bibrangedash 65}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.envpol.2015.01.013
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749115000160
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0269749115000160
+      \endverb
+    \endentry
+    \entry{Holstius.2014}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a5c82cddfe7ea2bad650759b113d5ab7}{%
+           family={Holstius},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ba4950aee915a301d573fbc00f96bf6}{%
+           family={Pillarisetti},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b432943c522bed1c9ebbd9ca632fcf1}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa38d29b01977d5d0fb1aa06604ea8d6}{%
+           family={Seto},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5b064ee65f07f2e542ab3502bbceca2}
+      \strng{fullhash}{1a963bb0976e4e1758efd9c7efdedb97}
+      \strng{bibnamehash}{1a963bb0976e4e1758efd9c7efdedb97}
+      \strng{authorbibnamehash}{1a963bb0976e4e1758efd9c7efdedb97}
+      \strng{authornamehash}{f5b064ee65f07f2e542ab3502bbceca2}
+      \strng{authorfullhash}{1a963bb0976e4e1758efd9c7efdedb97}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Field calibrations of a low-cost aerosol sensor at a regulatory monitoring site in California}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.5194/amtd-7-605-2014
+      \endverb
+      \verb{file}
+      \verb Field calibrations of a low-cost aerosol sensor:Attachments/Field calibrations of a low-cost aerosol sensor.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://amt.copernicus.org/preprints/7/605/2014/amtd-7-605-2014.pdf
+      \endverb
+      \verb{url}
+      \verb https://amt.copernicus.org/preprints/7/605/2014/amtd-7-605-2014.pdf
+      \endverb
+    \endentry
+    \entry{Inovafitness.2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=078a3f4608350e9be04fa7ad9f64199c}{%
+           family={Inovafitness},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{078a3f4608350e9be04fa7ad9f64199c}
+      \strng{fullhash}{078a3f4608350e9be04fa7ad9f64199c}
+      \strng{bibnamehash}{078a3f4608350e9be04fa7ad9f64199c}
+      \strng{authorbibnamehash}{078a3f4608350e9be04fa7ad9f64199c}
+      \strng{authornamehash}{078a3f4608350e9be04fa7ad9f64199c}
+      \strng{authorfullhash}{078a3f4608350e9be04fa7ad9f64199c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Overview The SDS011 using principle of laser scatteringcan get the particle concentration between 0.3 to 10\textgreek{m}m in the air. It with digital output and built-in fan is stable and reliable. Character istics 1. Accurate and Reliable:laserdetec}
+      \field{title}{Laser PM2.5 Sensor--SDS011}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb http://inovafitness.com/en/a/chanpinzhongxin/95.html
+      \endverb
+      \verb{url}
+      \verb http://inovafitness.com/en/a/chanpinzhongxin/95.html
+      \endverb
+    \endentry
+    \entry{OSRAM.2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9914fb70ef3e77924ba048c11f196c6}{%
+           family={OSRAM},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9914fb70ef3e77924ba048c11f196c6}
+      \strng{fullhash}{a9914fb70ef3e77924ba048c11f196c6}
+      \strng{bibnamehash}{a9914fb70ef3e77924ba048c11f196c6}
+      \strng{authorbibnamehash}{a9914fb70ef3e77924ba048c11f196c6}
+      \strng{authornamehash}{a9914fb70ef3e77924ba048c11f196c6}
+      \strng{authorfullhash}{a9914fb70ef3e77924ba048c11f196c6}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BPX-61 Datenblatt}
+      \field{year}{2014}
+      \verb{file}
+      \verb no{\_}name{\_}jobid11488{\_}index0:Attachments/no{\_}name{\_}jobid11488{\_}index0.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://asset.conrad.com/media10/add/160267/c1/-/gl/000153122DS01/datenblatt-153122-osram-fotodiode-to-39-1100-nm-55-bpx-61.pdf
+      \endverb
+      \verb{url}
+      \verb https://asset.conrad.com/media10/add/160267/c1/-/gl/000153122DS01/datenblatt-153122-osram-fotodiode-to-39-1100-nm-55-bpx-61.pdf
+      \endverb
+    \endentry
+    \entry{TheWorldAirQualityIndex.6202021}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=537e755dd820ba505f8a5c68a4d4c0e6}{%
+           family={{The World Air Quality Index}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \strng{fullhash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \strng{bibnamehash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \strng{authorbibnamehash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \strng{authornamehash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \strng{authorfullhash}{537e755dd820ba505f8a5c68a4d4c0e6}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How polluted is the air today? Check out the real-time air pollution map, for more than 100 countries.}
+      \field{title}{The SDS011 Air Quality Sensor experiment}
+      \field{year}{6/20/2021}
+      \verb{urlraw}
+      \verb https://aqicn.org/sensor/sds011/
+      \endverb
+      \verb{url}
+      \verb https://aqicn.org/sensor/sds011/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
